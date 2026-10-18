@@ -48,7 +48,9 @@ Badge: `https://agenticweb.wiki/badge/<domain>.svg`
 | `SKILL.md` | The skill. Canonical copy is served at https://agenticweb.wiki/static/skill/SKILL.md |
 | `server.json` | MCP Registry entry for `wiki.agenticweb/probe` (same file as published to registry.modelcontextprotocol.io) |
 
-## Data
+## Licence
+
+The skill files are MIT (see `LICENSE`).
 
 Standards data is CC BY 4.0 from [agenticweb.wiki](https://agenticweb.wiki), source in
 [Belgravia-Labs/agenticweb-data](https://github.com/Belgravia-Labs/agenticweb-data). Corrections:
