@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "wiki.agenticweb/probe",
-  "title": "Agentic Web Wiki \u2014 standards reference, probe, validate, template",
-  "description": "Look up 100+ agentic-web standards (MCP, A2A, x402, ARD\u2026), live-probe any domain, validate manifests, generate boilerplate.",
+  "title": "Agentic Web Wiki — standards reference, probe, validate, template",
+  "description": "Look up 100+ agentic-web standards, live-probe any domain, validate manifests, generate boilerplate.",
   "version": "1.2.0",
   "websiteUrl": "https://agenticweb.wiki",
   "repository": {
